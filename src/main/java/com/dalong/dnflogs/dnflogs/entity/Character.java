@@ -1,4 +1,4 @@
-package com.dalong.dnflogs.dnflogs.Entity;
+package com.dalong.dnflogs.dnflogs.entity;
 
 
 import javax.persistence.*;
